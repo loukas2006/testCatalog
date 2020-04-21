@@ -15,6 +15,7 @@
 		2F53349E244EF88D0024E010 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F53349C244EF88D0024E010 /* LaunchScreen.storyboard */; };
 		2F5334A9244EF88D0024E010 /* testCatalogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5334A8244EF88D0024E010 /* testCatalogTests.swift */; };
 		2F5334B4244EF88D0024E010 /* testCatalogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5334B3244EF88D0024E010 /* testCatalogUITests.swift */; };
+		2F5334C2244EFAC30024E010 /* ColorsStyle.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F5334C1244EFAC30024E010 /* ColorsStyle.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2F5334AF244EF88D0024E010 /* testCatalogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testCatalogUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F5334B3244EF88D0024E010 /* testCatalogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testCatalogUITests.swift; sourceTree = "<group>"; };
 		2F5334B5244EF88D0024E010 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F5334C1244EFAC30024E010 /* ColorsStyle.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = ColorsStyle.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2F53349A244EF88D0024E010 /* Assets.xcassets */,
 				2F53349C244EF88D0024E010 /* LaunchScreen.storyboard */,
 				2F53349F244EF88D0024E010 /* Info.plist */,
+				2F5334C1244EFAC30024E010 /* ColorsStyle.xcassets */,
 			);
 			path = testCatalog;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				2F53349E244EF88D0024E010 /* LaunchScreen.storyboard in Resources */,
 				2F53349B244EF88D0024E010 /* Assets.xcassets in Resources */,
 				2F533499244EF8870024E010 /* Main.storyboard in Resources */,
+				2F5334C2244EFAC30024E010 /* ColorsStyle.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
